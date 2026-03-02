@@ -19,7 +19,7 @@ import sys
 from volcenginesdkarkruntime import Ark
 
 # Default model
-DEFAULT_MODEL = "doubao-seedream-4-5-251128"
+DEFAULT_MODEL = "doubao-seedream-5-0-260128"
 
 
 def image_generate(prompt: str):
